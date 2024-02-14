@@ -23,10 +23,10 @@
 
 
 
- - ### 📧 **Contact:** [frontenddevferdi@gmail.com](mailto:frontenddevferdi@gmail.com)
+ - 📧 **Contact:** [frontenddevferdi@gmail.com](mailto:frontenddevferdi@gmail.com)
 
 
- - ### 🐍 My Contributions
+ - 🐍 My Contributions
 
 
 
