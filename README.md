@@ -8,7 +8,7 @@
 
 
 
- 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <div>
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" title="Typescript" height="20"/> TS |
