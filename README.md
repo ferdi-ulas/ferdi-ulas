@@ -8,29 +8,30 @@
 
 
 
-### 🛠 Tech Stack
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
 
+### 🛠 &nbsp;Tech Stack
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=SASS)&nbsp;
+![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=Bootstrap&logoColor=563D7C)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-141a20?style=flat&logo=Canva&logoColor=00C4CC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)&nbsp;
 
 
 
 
 
 
- - 📧 **Contact:** [frontenddevferdi@gmail.com](mailto:frontenddevferdi@gmail.com)
+
+
+
+ - 📫 How to reach me ... 
+[![gmail](https://img.shields.io/badge/-frontenddevferdi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:frontenddevferdi@gmail.com)
 
 
  - 🐍 My Contributions
