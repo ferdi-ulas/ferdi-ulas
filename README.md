@@ -1,4 +1,8 @@
 
+<img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ddd&center=true&vCenter=true&width=550&lines=I'm+Ferdi+Ulas;Computer+Science+Student;Web+Developer;I+Always+have+a+passion+for+coding+and+learning" alt="Typing SVG"  >
+
+
 🧑🏻‍💻 **Summary**
 - 👋 Hi, I’m Ferdi ULAŞ
 - 🌱 Open to active job postings.
