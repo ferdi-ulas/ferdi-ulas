@@ -12,19 +12,35 @@
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ferdiulas-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230274B3.svg?logo=linkedin&logoColor=white"></a>
+<a href="https://discord.gg/5d4Dczm4" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"></a>
+<a href="x" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23ff0069.svg?logo=Instagram&logoColor=white"></a>
+<a href="x" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UChPHeSoAXW4V8C08Q3TIYxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 
 
+<h1></h1>
 
-### 🛠 &nbsp;Tech Stack
+<h4 align="left">Development and Scripting Languages:</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141a20?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SCSS-141a20?style=flat&logo=SASS)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-141a20?style=flat&logo=Bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-141a20?style=flat&logo=Javascript&logoColor=FCDC00)&nbsp;
-![Git](https://img.shields.io/badge/-Git-141a20?style=flat&logo=git)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-141a20?style=flat&logo=Canva&logoColor=00C4CC)&nbsp;
+
+ 
+  
+
+
+  
+</p>
 
 
 
