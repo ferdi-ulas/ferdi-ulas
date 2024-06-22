@@ -14,11 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/channel/UChPHeSoAXW4V8C08Q3TIYxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>  
 <a href="https://www.linkedin.com/in/ferdiulas-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230274B3.svg?logo=linkedin&logoColor=white"></a>
 <a href="https://discord.gg/5d4Dczm4" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white"></a>
 <a href="x" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23ff0069.svg?logo=Instagram&logoColor=white"></a>
 <a href="x" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UChPHeSoAXW4V8C08Q3TIYxA" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+
 
 
 <h1></h1>
