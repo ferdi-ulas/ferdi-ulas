@@ -19,7 +19,7 @@
 
 <h1></h1>
 
-<h4 align="left">Development and Scripting Languages:</h4>
+<h4 align="left">Development Technologies & Tools;</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
