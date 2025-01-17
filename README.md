@@ -37,10 +37,9 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/canva-%23F24E1E.svg?style=for-the-badge&logo=canva&logoColor=white">
-  <img src="https://img.shields.io/badge/Sony_Vegas_Pro-%23000000.svg?style=for-the-badge&logo=sony&logoColor=white">
-  <img src="https://img.shields.io/badge/coreldraw-%23FF6A00.svg?style=for-the-badge&logo=coreldraw&logoColor=white">
-  <img src="https://img.shields.io/badge/excel-%231D6E00.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/capcut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white">
+
+  
+  
  
 </p>
 
